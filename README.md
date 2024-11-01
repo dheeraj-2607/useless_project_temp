@@ -1,38 +1,38 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Funny Promodoro Timer 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## Creative and impressive promodoro timer which is both distractive and motivating..
+### Team Name: Return Zero
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Dheeraj A G - Government Engineering College,Painavu
+- Member 2: Anjush Praveen - Government Engineering College,Painavu
 
 ### Project Description
-[2-3 lines about what your project does]
+Funny Promodoro Timer which is usefully useless and distractive.
+Timers are used for being productive and formal 
+
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Make a user friendly and open web application which provoke human senses on their actions during focusive works
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Funny and informal responses makes their mind strike what they have done
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- Javascript
+- css
+
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-null
 
 ### Implementation
 For Software:
@@ -87,9 +87,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Dheeraj A G:created user interfaces.
+- Anjush Praveen: provided ideas and steps for final product,given ui color palettes and background styles.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
